@@ -1,0 +1,66 @@
+{
+    "appName": "C4E ဆုလာဘ်များ",
+    "loginLabel": "အကောင့်ဝင်မည်",
+    "newMemberSignUpLabel": "မန်ဘာအသစ် အကောင့်စာရင်းသွင်းမည်",
+    "signUpLabel": "အကောင့်စာရင်းသွင်းမည်",
+    "searchLabel": "ရှာမည်",
+    "searchAgainLabel": "ထပ်ရှာမည်",
+    "existingMemberSignUpLabel": "မန်ဘာဟောင်း အကောင့်စာရင်းသွင်းမည်",
+    "forgetPasswordLabel": "စကားဝှက် မေ့သွားပြီ",
+    "nextLabel": "ဆက်သွားမည်",
+    "forgetPwParagraph": "OTP Code ပို့ရန်သင့်အကောင့်၏ဖုန်းနံပါတ်အားထည့်ပေးပါ",
+    "verificationLabel": "မှန်ကန်ကြောင်းအတည်ပြုရန်",
+    "verifySmsSentLabel": "verify လုပ်ရန် code အား {phone} သို့ပို့ထားပါပြီ",
+    "@verifySmsSentLabel": {
+        "placeholders": {
+            "phone": {
+                "type": "String"
+            }
+        }
+    },
+    "otpExpireLabel": "ထိုcodeသည် ",
+    "secondsLabel": " စက္ကန့်အတွင်းသက်တမ်းကုန်ဆုံးမည်ဖြစ်သည်။",
+    "otpTimeoutLabel": "OTP သက်တမ်းကုန်ဆုံးသွားပါပြီ",
+    "orLabel": "သို့မဟုတ်",
+    "resetPasswordsLabel": "စကားဝှက်အသစ်ပြန်လုပ်မည်",
+    "somethinWrongLabel": "တစ်ခုခုမှားယွင်းသွားပါပြီ",
+    "retryLabel": "ပြန်လုပ်ကြည့်မည်",
+    "openBarcodeScanner": "Scanner ဖွင့်မည်",
+    "closeBarcodeScannerLabel": "အောက်သို့ဆွဲ၍ပိတ်ပါ",
+    "barcodeIntroLabel": "ပစ္စည်းရှိbarcodeအားဖတ်၍\nအသေးစိတ်အချက်အလက်အားကြည့်ပါ",
+    "collectRewardsLabel": "ပွိုင့်သိမ်းဆည်းမည်",
+    "qrToExpireLabel": "ဤ QR code သည် {time} မိနစ်အတွင်း သက်တမ်းကုန်ဆုံးမည်",
+    "@qrToExpireLabel": {
+        "placeholders": {
+            "time": {
+                "type": "String"
+            }
+        }
+    },
+    "qrExpireLabel": "Qr code သက်တမ်းကုန်ဆုံးသွားပါပြီ",
+    "profileDetailLabel": "ကိုယ်ရေးအချက်အလက်",
+    "securityLabel": "လုံခြုံရေး",
+    "shippingAddressLabel": "နေရပ်လိပ်စာ",
+    "termsAndConditionsLabel": "မူဝါဒဆိုင်ရာ သတ်မှတ်ချက်များ",
+    "aboutUsLabel": "ကျွန်ုပ်တို့အကြောင်း",
+    "logOutLabel": "အကောင့်မှထွက်မည်",
+    "settingsLabel": "ပြင်ဆင်မှုများ",
+    "confirmationLabel": "အတည်ပြုခြင်း",
+    "confirmLabel": "သေချာသည်",
+    "surelogoutLabel": "အကောင့်မှထွက်ရန်သေချာပါသလား",
+    "cancelLabel": "မလုပ်တော့ပါ",
+    "promoExpireLabel": "ဤ promotion သက်တမ်းကုန်ဆုံးမည့်ချိန်",
+    "fromCameraLabel": "ဓါတ်ပုံရိုက်ယူမည်",
+    "fromFileLabel": "ဓါတ်ပုံများမှရွေးယူမည်",
+    "saveLabel": "သိမ်းဆည်းမည်",
+    "pointsLabel": "ပွိုင့်စုစုပေါင်း",
+    "rewardsAppBarTitle" : "ဆုလက်ဆောင်များ",
+    "historyAppBarTitle" : "မှတ်တမ်းများ",
+    "profileAppBarTitle" : "ပရိုဖိုင်",
+    "languageProfileList" : "ဘာသာစကား",
+    "changePasswordProfileList" : "စကားဝှက်ပြောင်းလဲရန်",
+    "campaignTitle" : "ကမ်ပိန်းများ",
+    "successAlertBox" : "အောင်မြင်ပါသည်",
+    "somethingWentWrongAlertBox" : "တခုခုမှားယွင်းနေပါသည်",
+    "noHistoryLabel" : "မှတ်တမ်းမရှိသေးပါ"
+}

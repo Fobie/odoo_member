@@ -1,0 +1,8 @@
+#this file is configuration file of auto generating flutter code for internationalization
+
+arb-dir: lib/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+output-dir: lib/generated/gen_l10n
+untranslated-messages-file: desiredFileName.txt
+synthetic-package: false

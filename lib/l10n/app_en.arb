@@ -1,0 +1,66 @@
+{
+    "appName": "C4E Rewards",
+    "loginLabel": "Login",
+    "newMemberSignUpLabel": "New member signup",
+    "signUpLabel": "Signup",
+    "searchLabel": "Search",
+    "searchAgainLabel": "Search again",
+    "existingMemberSignUpLabel": "Existing member signup",
+    "forgetPasswordLabel": "Forget password",
+    "nextLabel": "Next",
+    "forgetPwParagraph": "Please enter your phone number and we will send otp to reset your password",
+    "verificationLabel": "Verification",
+    "verifySmsSentLabel": "We sent verification code to {phone}",
+    "@verifySmsSentLabel": {
+        "placeholders": {
+            "phone": {
+                "type": "String"
+            }
+        }
+    },
+    "otpExpireLabel": "This code will expiredd in ",
+    "secondsLabel": " seconds",
+    "otpTimeoutLabel": "OTP time out",
+    "orLabel": "or",
+    "resetPasswordsLabel": "Reset Password",
+    "somethinWrongLabel": "Something went wrong",
+    "retryLabel": "retry",
+    "openBarcodeScanner": "Open Scanner",
+    "closeBarcodeScannerLabel": "slide down to close",
+    "barcodeIntroLabel": "Scan product's barcode \n and view product's detail.",
+    "collectRewardsLabel": "Collects Rewards",
+    "qrToExpireLabel": "This Qr will be expire in {time} minutes",
+    "@qrToExpireLabel": {
+        "placeholders": {
+            "time": {
+                "type": "String"
+            }
+        }
+    },
+    "qrExpireLabel": "Qr code has been expire",
+    "profileDetailLabel": "Profile Detail",
+    "securityLabel": "Security",
+    "shippingAddressLabel": "Shipping Address ",
+    "termsAndConditionsLabel": "Terms And Conditions",
+    "aboutUsLabel": "About Us",
+    "logOutLabel": "Log Out",
+    "settingsLabel": "Settings",
+    "confirmationLabel": "confirm",
+    "surelogoutLabel": "Are you sure want to log out",
+    "confirmLabel": "confirm",
+    "cancelLabel": "cancel",
+    "promoExpireLabel": "Promotion expire date ",
+    "fromCameraLabel": "Take a picture",
+    "fromFileLabel": "Select from pictures",
+    "saveLabel": "Save",
+    "pointsLabel": "Total Points",
+    "rewardsAppBarTitle" : "Rewards",
+    "historyAppBarTitle" : "History",
+    "profileAppBarTitle" : "Profile",
+    "languageProfileList" : "Language",
+    "changePasswordProfileList" : "Change Password",
+    "campaignTitle" : "Campaigns",
+    "successAlertBox" : "Success",
+    "somethingWentWrongAlertBox" : "Something Went Wrong",
+    "noHistoryLabel" : "No History"
+}
